@@ -4,7 +4,7 @@
 
 # Práctico 3
 Punto 1
-a) En mi PC, el archivo conhilos.py, que utiliza hilos para ejecutar varias tareas al mismo tiempo, tiene un tiempo promedio de ejecución de 4.02 segundos. Mientras tanto, el archivo sinhilos.py, que no usa hilos y ejecuta cada tarea de manera secuencial, tiene un tiempo promedio de ejecución de 5.16 segundos.
+a) En mi PC, el archivo conhilos.py, que utiliza hilos para ejecutar varias tareas al mismo tiempo, tiene un tiempo promedio de ejecución de 5.12 segundos. Mientras tanto, el archivo sinhilos.py, que no usa hilos y ejecuta cada tarea de manera secuencial, tiene un tiempo promedio de ejecución de 6.32 segundos.
 
 b) No son iguales, ya que el tiempo de ejecución depende de varios factores, como el rendimiento del sistema y la cantidad de tareas en proceso. Incluso en el mismo sistema, al ejecutar varias veces el mismo script, el tiempo puede variar debido a cuestiones internas del sistema, aunque suele acercarse a un valor promedio.
 
